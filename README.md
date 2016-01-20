@@ -1,0 +1,1 @@
+# karaf-osgi-list-issue
